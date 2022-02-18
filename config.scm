@@ -72,6 +72,8 @@
    (list
     ;; https certs
     nss-certs
+    ;; X11 tools
+    xset xrdb xsetroot
     ;; wm
     my-dwm
     ;; web browser
