@@ -1,0 +1,7 @@
+#!/bin/sh
+
+URL="opac.lib.sx.cn"
+while true
+do
+	surf $URL
+done
