@@ -12,7 +12,7 @@
  )
 (use-package-modules 
  certs fcitx fonts fontutils image-viewers
- wm suckless
+ suckless wm xorg
  )
 
 (define my-dwm
