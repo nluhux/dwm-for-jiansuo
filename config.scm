@@ -117,6 +117,9 @@
      "/srv/scripts/autostart.sh"
      (local-file "./scripts/autostart.sh"))
     (extra-special-file
+     "/etc/config.scm"
+     (local-file "./config.scm"))
+    (extra-special-file
      "/srv/scripts/surf-loop"
      (local-file "./scripts/surf-loop")))
    (modify-services
