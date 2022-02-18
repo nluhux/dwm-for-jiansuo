@@ -7,7 +7,7 @@ export QT_IM_MODULE=fcitx
 fcitx-autostart
 
 # web browser
-sh /etc/scripts/surf-loop &
+sh /srv/scripts/surf-loop &
 
 
 # wallpaper
