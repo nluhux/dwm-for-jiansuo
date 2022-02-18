@@ -21,7 +21,7 @@ static Parameter defconfig[ParameterLast] = {
 	[CaretBrowsing]       =       { { .i = 0 },     },
 	[CookiePolicies]      =       { { .v = "@Aa" }, },
 	[DefaultCharset]      =       { { .v = "UTF-8" }, },
-	[DiskCache]           =       { { .i = 1 },     },
+	[DiskCache]           =       { { .i = 0 },     },
 	[DNSPrefetch]         =       { { .i = 0 },     },
 	[Ephemeral]           =       { { .i = 0 },     },
 	[FileURLsCrossAccess] =       { { .i = 0 },     },
